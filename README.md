@@ -7,12 +7,31 @@
  <h5><li>Backend: Django</li></h5>
  <h6><li>Laibrary: Jazzmin</li></h6>
  <h5><li>Fontend: Boostrap,html,css</li></h5>
+ <p>Unfortunately, static files are not loading on live hosting but work fine on localhost.</p>
  
+ 
+ <h2>Challenges</h2>
+ <li>Live hosting is one of the tough challenges for me. Trying many times to host on Heroku, but the MySQL database does not sink with the Heroku database for my case.</li>
+ <li>As the frontend is not my side. So, synchronizing the frontend with the backend was another challenge for me.</li>
 
-<h2>Homepage</h2>
-<img src="/dem_img/1.PNG">
+
+
+<h1>UI</h1>
+<h3>Some picture when the project was running on localhost.</h3>
+<h2>Admin Panel</h2>
+<img src="/dem_img/admin_panel.png">
+<h2>Admin Dashboard</h2>
+<img src = "/dem_img/admin_desh.PNG">
 <h2>List Page</h2>
-<img src = "/dem_img/2.PNG">
+<img src="/dem_img/admin_panel.png">
+<h2>List Page</h2>
+<img src="/dem_img/admin_panel.png">
+<h2>List Page</h2>
+<img src="/dem_img/admin_panel.png">
+<h2>List Page</h2>
+<h2>List Page</h2>
+<h2>List Page</h2>
+<h2>List Page</h2>
   
 <h2>Specifications:</h2>
  
