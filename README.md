@@ -2,9 +2,12 @@
  Design of a proper functional eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist”.
  The website Live at --https://sanoth.pythonanywhere.com/
  
- <h2>Django Admin Credentials:</h2>
- <li>UserID : "joel__jaimon"</li>
- <li>Password : "12345678rr"</li>
+ <h2>Packages:</h2>
+ <h5><li>Database : Mysql</li></h5>
+ <h5><li>Backend: Django</li></h5>
+ <h6><li>Laibrary: Jazzmin</li></h6>
+ <h5><li>Fontend: Boostrap,html,css</li></h5>
+ 
 
 <h2>Homepage</h2>
 <img src="/dem_img/1.PNG">
