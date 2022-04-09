@@ -19,7 +19,7 @@
 <h1>UI</h1>
 <h3>Some picture when the project was running on localhost.</h3>
 <h2>Admin Panel</h2>
-<img src="/dem_img/admin_panel.png">
+<img src="/dem_img/admin_panel2.png">
 <h2>Admin Dashboard</h2>
 <img src="/dem_img/admin_desh.png">
 
