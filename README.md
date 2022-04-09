@@ -21,7 +21,7 @@
 <h2>Admin Panel</h2>
 <img src="/dem_img/admin_panel.png">
 <h2>Admin Dashboard</h2>
-<img src="/dem_img/admin_dash.png">
+<img src="/dem_img/admin_desh.png">
 
 
 
